@@ -22,12 +22,14 @@ Hi {}, my name is {}! if you have any questions about how to use me please give 
 
 im a group manager bot maintained by  [this person](http://t.me/jishnu333).
 
+For more /help .. .. 
+For your information /info 
+Text to voice /tts "your text"
 
 
 
 
 
-For more commands click /help...
 
 
 
